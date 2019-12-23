@@ -1,5 +1,5 @@
 Edge Gateay SDK of HangZhou Tuya Technology Co., Ltd.      
-杭州涂鸦科技有限公司的Edge Gateway SDK。
+杭州涂鸦信息技术有限公司的Edge Gateway SDK。
 
 Currently The SDK is under development.       
 该SDK目前处于研发中。
